@@ -99,6 +99,8 @@ education:
 
 ## About Me
 
+---
+
 I am currently a Royal Society University Research Fellow at the School of Informatics, University of Edinburgh (since January 2025).
 I work in the field of NeuroAI -- an intersection between studies of natural and artificial intelligence. 
 
