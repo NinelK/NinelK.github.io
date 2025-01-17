@@ -31,8 +31,6 @@ organizations:
 profiles:
   - icon: brands/x
     url: https://twitter.com/NinelK1
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/NinelK
   - icon: brands/linkedin
@@ -43,25 +41,37 @@ profiles:
     url: https://orcid.org/0000-0001-8529-7250
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'I work in the field of NeuroAI: an intersection between studies of natural and artificial intelligence.'
-
+# bio: 'I work in the field of NeuroAI: an intersection between studies of natural and artificial intelligence.'
 
 interests:
   - Latent neural population dynamics
   - 'Motor control: movement planning and correction'
   - Predictive processing in neural populations
 
+
 education:
-  courses:
-    - course: PhD in Biophysics
-      institution: University of Ghent
-      year: 2018
-    - course: MSc in Applied Mathematics and Physics
-      institution: Moscow Institute of Physics and Technology (MIPT)
-      year: 2015
-    - course: BSc in Applied Mathematics and Physics
-      institution: Moscow Institute of Physics and Technology (MIPT)
-      year: 2013
+  - area: PhD in Biophysics
+    institution: University of Ghent
+    date_start: 2015-09-01
+    date_end: 2018-06-01
+    summary: |
+      The fundamental role of cardiac tissue morphology in electrical signal propagation
+    button:
+      text: 'Download Thesis'
+      url: 'https://biblio.ugent.be/publication/8562082'
+  - area: MSc in Applied Mathematics and Physics
+    institution: Moscow Institute of Physics and Technology (MIPT)
+    date_start: 2013-09-01
+    date_end: 2015-08-31
+    summary: |
+      GPA: 9.44/10; 
+      Ranking: top 2%: 41/1892;
+  - area: BSc in Applied Mathematics and Physics
+    institution: Moscow Institute of Physics and Technology (MIPT)
+    date_start: 2009-09-01
+    date_end: 2013-08-31
+    summary: |
+      GPA: 4.96/5
       
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -90,7 +100,7 @@ education:
 ## About Me
 
 I am currently a Royal Society University Research Fellow at the School of Informatics, University of Edinburgh (since January 2025).
-I work in the field of NeuroAI: an intersection between studies of natural and artificial intelligence. 
+I work in the field of NeuroAI -- an intersection between studies of natural and artificial intelligence. 
 
 Drawing on my interdisciplinary background, I view intelligence as fundamentally linked to predictive processing and dynamic interaction with the environment. 
 I am also interested in applying my research to understanding the mechanisms underlying autism spectrum disorders, and enabling effective decoding of movement for developing prosthetic devices and human-machine interfaces.
