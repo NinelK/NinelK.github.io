@@ -12,7 +12,7 @@ main:
     weight: 11
   - name: Experience
     url: experience/
-    weight: 12
+    weight: 20
   - name: Projects
     url: projects/
-    weight: 13
+    weight: 30
